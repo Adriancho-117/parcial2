@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 """
 EJERCICIO – PUNTO 4: DIJKSTRA (Rutas de Transporte)
-Autores: Adrian Carrillo y Kevin Candela
+
 
 PREGUNTAS:
 a) Representar el sistema como un grafo ponderado.
