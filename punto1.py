@@ -1,6 +1,6 @@
 """
 PUNTO 1 – Análisis de Complejidad de Código
-Materia: Análisis de Algoritmos
+
 
 Descripción:
 Una empresa tecnológica analiza interacciones de usuarios en una red social.
